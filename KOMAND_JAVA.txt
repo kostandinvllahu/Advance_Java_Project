@@ -1,0 +1,257 @@
+COD
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by COD -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by COD -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by COD -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by COD -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by COD -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by COD -display DATE YES
+
+=======================================================================================
+
+CNT
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by CNT -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by CNT -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by CNT -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by CNT -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by CNT -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by CNT -display DATE YES
+
+========================================================================================
+
+LOC
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by LOC -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by LOC -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by LOC -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by LOC -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by LOC -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by LOC -display DATE YES
+
+========================================================================================
+
+DT
+
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by DT -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by DT -display CONTINENT YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by DT -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by DT -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by DT -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by DT -display DATE YES
+
+=========================================================================================
+
+TC
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TC -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TC -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TC -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TC -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TC -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TC -display DATE YES
+
+=========================================================================================
+
+NC
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NC -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NC -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NC -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NC -display COUNTRY  YES
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NC -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NC -display DATE YES
+
+==========================================================================================
+
+NCS
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NCS -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NCS -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NCS -display COUNTRY YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NCS -display COUNTRY  YES => Error
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NCS -display DATE YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NCS -display DATE YES => Error
+
+==========================================================================================
+
+TD
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TD -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TD -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TD -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TD -display COUNTRY  YES 
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TD -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TD -display DATE YES
+
+===========================================================================================
+
+ND
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by ND -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by ND -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by ND -display COUNTRY YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by ND -display COUNTRY  YES 
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by ND -display DATE YES
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by ND -display DATE YES
+
+==========================================================================================
+
+NDS
+
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NDS -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NDS -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NDS -display COUNTRY YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NDS -display COUNTRY  YES => Error
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NDS -display DATE YES  =>Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NDS -display DATE YES => Error
+
+============================================================================================
+
+RR
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by RR -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by RR -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by RR -display COUNTRY YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by RR -display COUNTRY  YES => Error
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by RR -display DATE YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by RR -display DATE YES => Error
+
+=============================================================================================
+
+NT
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NT -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NT -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NT -display COUNTRY YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NT -display COUNTRY  YES => Error
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by NT -display DATE YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by NT -display DATE YES => Error
+
+============================================================================================
+
+TT
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TT -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TT -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TT -display COUNTRY YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TT -display COUNTRY  YES => Error
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by TT -display DATE YES => Error
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by TT -display DATE YES => Error
+
+============================================================================================
+
+SI
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by SI -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by SI -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by SI -display COUNTRY NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by SI -display COUNTRY  NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by SI -display DATE NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by SI -display DATE NO
+
+============================================================================================
+
+POP
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by POP -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by POP -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by POP -display COUNTRY YES => ERROR
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by POP -display COUNTRY  YES => ERROR
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by POP -display DATE YES => ERROR
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by POP -display DATE YES => ERROR
+
+===============================================================================================
+
+MA
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by MA -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by MA -display CONTINENT NO
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by MA -display COUNTRY YES => ERROR
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by MA -display COUNTRY  YES => ERROR
+
+-file D:\owid-covid-data.csv -stat max -limit 5 -by MA -display DATE YES => ERROR
+
+-file D:\owid-covid-data.csv -stat min -limit 5 -by MA -display DATE YES => ERROR
+
+
