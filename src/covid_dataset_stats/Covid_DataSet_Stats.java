@@ -4743,7 +4743,7 @@ public class Covid_DataSet_Stats {
         String Command= input.nextLine();
         System.out.println(Command);
         String[] tokens=Command.split(" ");
-        int range=0;
+        int range=0;																					//ketu ishte 6
       if("-file".equals(tokens[0]) && "-stat".equals(tokens[2]) && "-limit".equals(tokens[4]) &&"-by".equals(tokens[6]) && "-display".equals(tokens[8])    ){
           if("max".equals(tokens[3])){
               //range 5
